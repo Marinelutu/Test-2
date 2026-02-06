@@ -5,3 +5,10 @@ git commit -m "first commit
 git branch -M m
 git remote add origin https://github.com/Marinelutu/Test-2.git
 git push 
+echo "# Test-2" >> README.md
+git init
+git add README.md
+git commit -m "first comm
+git branch -M m
+git remote add origin https://github.com/Marinelutu/Test-2.git
+git push 
